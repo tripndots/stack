@@ -1,1 +1,1 @@
-# Stack Implementation using c++
+# Stack Implementation using C++
